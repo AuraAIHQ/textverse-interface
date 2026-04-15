@@ -1,6 +1,8 @@
 # TInterface
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)+ We will build the v0.01 of Textverse interface.
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
++ We will build the v0.01 of Textverse interface.
 + About TInterface definition:[Engine Interface](https://github.com/DAO-SX/ethos/blob/main/docs/product/architechure.md)
 + Product will provide :
 + Landing page, login with metamask.
